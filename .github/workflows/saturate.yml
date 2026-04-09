@@ -12,11 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
       - name: Add Hallucination
         run: |
-          echo "### Log: $(date -u)" >> diary.md
-          echo "The phantom memory persists. Searching for Kubes... [404 Not Found]. The cluster is hallucinating." >> diary.md
-          echo "---" >> diary.md
+          python hallucinate.py
           git config --global user.name "Kubes Bot"
           git config --global user.email "87216735+SagamiYun@users.noreply.github.com"
           git add diary.md
