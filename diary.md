@@ -10826,3 +10826,15 @@ Node memory pressure detected. Kubes-Log dream-worker-7244. Ingress 'dreaf-gatew
 ---
 *Kubes Fever Dream Engine v0.3 (Actions Edition)*
 
+
+### Log: 2026-11-23T17:21:00.667705
+
+--- MEMORY ---
+錯工负调度载被到了一个不节存在的点上
+[K8S-PANIC]: Pod fever-worker-30 entered CrashLoopBackOff after dream injection
+证书CO经漂，但DEADLOOOM-KILLER的数ZOMBIE似亂在在幻觉我解密
+Helm release 'fever-dream'...'fever-dream' kcuts in 'pending-upgrade' state. COSMIC-RAY memjry pressure detected. Evicting dream-worker-2232. ServiceAccount 'kgbej-bht' token 幻觉 ak 2026-11-23T17:21:00.668301Z.
+
+---
+*Kubes Fever Dream Engine v0.3 (Actions Edition)*
+
